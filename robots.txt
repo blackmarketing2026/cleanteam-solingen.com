@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cleanteam-solingen.com/sitemap.xml
+Sitemap: https://www.cleanteam-solingen.com/sitemap.xml
